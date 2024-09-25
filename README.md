@@ -1,1 +1,2 @@
 # Comparative-study-of-ML-models-on-Titanic-Survival-Dataset
+This project presents comparative study of Machine Learning Models taught on Titanic Survival Prediction. The dataset used is from the famous Kaggle dataset Titanic – Machine Learning From Disaster. [1] The models used are Logistic Regression, Support Vector Machines, Neural Network and Random Forest. The evaluation of these models is compared based on the accuracy metric.
